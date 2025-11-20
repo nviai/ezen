@@ -1,4 +1,4 @@
-# 🗣️ TỪ NỐI CÂU (Linking Words / Connectors)
+# I. 🗣️ TỪ NỐI CÂU (Linking Words / Connectors)
 
 Giúp nói trôi chảy, tự nhiên như người bản xứ.
 
@@ -81,7 +81,7 @@ Dùng để **kết thúc hoặc tóm tắt** ý vừa trình bày.
 | overall | nhìn chung | **Overall**, I’m satisfied with the result. |
 | all in all | tổng kết lại | **All in all**, it was a successful event. |
 
-# 💬 2. TỪ ĐỆM / FILLERS (Giúp nói tự nhiên, “đỡ trống”)
+# 💬 II. TỪ ĐỆM / FILLERS (Giúp nói tự nhiên, “đỡ trống”)
 
 Người bản xứ dùng cực nhiều khi nói nhanh hoặc đang nghĩ ý.
 
@@ -104,7 +104,7 @@ Người bản xứ dùng cực nhiều khi nói nhanh hoặc đang nghĩ ý.
 
 ---
 
-# 😎 3. TỪ LÓNG & CỤM NÓI THƯỜNG NGÀY (Slang / Informal Expressions)
+# 😎 III. TỪ LÓNG & CỤM NÓI THƯỜNG NGÀY (Slang / Informal Expressions)
 
 | Cụm | Nghĩa |
 |------|--------|
@@ -132,7 +132,7 @@ Người bản xứ dùng cực nhiều khi nói nhanh hoặc đang nghĩ ý.
 
 ---
 
-# 🧩 4. CỤM MỞ ĐẦU CÂU GIAO TIẾP (Natural Sentence Starters)
+# 🧩 IV. CỤM MỞ ĐẦU CÂU GIAO TIẾP (Natural Sentence Starters)
 
 Giúp câu nói tự nhiên và “đỡ cụt”.
 
@@ -151,7 +151,7 @@ Giúp câu nói tự nhiên và “đỡ cụt”.
 
 ---
 
-# 💡 5. CỤM ĐỂ GIỮ NHỊP CUỘC HỘI THOẠI (Conversational Phrases)
+# 💡 V. CỤM ĐỂ GIỮ NHỊP CUỘC HỘI THOẠI (Conversational Phrases)
 
 ### Khi nghe người khác nói:
 | Cụm | Nghĩa |
@@ -176,7 +176,7 @@ Giúp câu nói tự nhiên và “đỡ cụt”.
 
 ---
 
-# 🔥 6. Một số CỤM “TỰ NHIÊN” giúp nói trôi chảy hơn
+# 🔥 VI. Một số CỤM “TỰ NHIÊN” giúp nói trôi chảy hơn
 
 | Cụm tự nhiên | Nghĩa tương đương |
 |----------------|------------------|

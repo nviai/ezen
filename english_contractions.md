@@ -1,103 +1,171 @@
 # 📘 English Contractions (Official + Slang)
 
-## 🗣️ Official Contractions
+## 🟦 1. To Be
+### Pronunciation Tips
+- `'m` in **I'm** → /m/
+- `'re` in **you're**, **we're**, **they're** → /ər/
+- `'s` in **he's**, **she's**, **it's** → /z/ or /s/
+- Smooth linking: *“I’m eating”* → /aɪmiːtɪŋ/, *“They’re amazing”* → /ðeər əˈmeɪzɪŋ/
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a59f56a1f9de2936649a/1.wav" type="audio/mpeg"> </audio>
 
-| Dạng rút gọn | Dạng đầy đủ | Cách đọc (IPA) | Cách đọc (Vi) | Ghi chú |
-|---------------|--------------|----------------|---------------|----------|
-| I'm | I am | /aɪm/ |  | Tôi là / Tôi đang |
-| You're | You are | /jʊr/ |  | Bạn là |
-| He's | He is / He has | /hiːz/ |  | Anh ấy là / đã |
-| She's | She is / She has | /ʃiːz/ |  | Cô ấy là / đã |
-| It's | It is / It has | /ɪts/ |  | Nó là / đã |
-| We're | We are | /wɪr/ |  | Chúng ta là |
-| They're | They are | /ðeər/ |  | Họ là |
-| I've | I have | /aɪv/ |  | Tôi đã / có |
-| You've | You have | /juːv/ |  | Bạn đã / có |
-| We've | We have | /wiːv/ |  | Chúng ta đã / có |
-| They've | They have | /ðeɪv/ |  | Họ đã / có |
-| I'd | I would / I had | /aɪd/ |  | Tôi sẽ / đã |
-| You'd | You would / You had | /juːd/ |  | Bạn sẽ / đã |
-| He'd | He would / He had | /hiːd/ |  | Anh ấy sẽ / đã |
-| She'd | She would / She had | /ʃiːd/ |  | Cô ấy sẽ / đã |
-| We'd | We would / We had | /wiːd/ |  | Chúng ta sẽ / đã |
-| They'd | They would / They had | /ðeɪd/ |  | Họ sẽ / đã |
-| I'll | I will | /aɪl/ | Ao | Tôi sẽ |
-| You'll | You will | /juːl/ | Dua | Bạn sẽ |
-| He'll | He will | /hiːl/ | Hel (eo) | Anh ấy sẽ |
-| She'll | She will | /ʃiːl/ | Xel | Cô ấy sẽ |
-| It'll | It will | /ɪtl/ | Il (iu) | Nó sẽ |
-| We'll | We will | /wiːl/ | Wel | Chúng ta sẽ |
-| They'll | They will | /ðeɪl/ | Tel | Họ sẽ |
-| This'll | This will | /ˈðɪsəl/ | Dis-sel | Cái này sẽ |
-| That'll | This will | /ˈðætəl/ | Dat-del (Dao) | Cái đó sẽ |
-| Can't | Cannot | /kænt/ |  | Không thể |
-| Won't | Will not | /woʊnt/ |  | Sẽ không |
-| Don't | Do not | /doʊnt/ |  | Không |
-| Doesn't | Does not | /ˈdʌzənt/ |  | Không |
-| Didn't | Did not | /ˈdɪdənt/ |  | Đã không |
-| Isn't | Is not | /ˈɪzənt/ |  | Không phải |
-| Aren't | Are not | /ɑːnt/ |  | Không phải |
-| Wasn't | Was not | /ˈwɒzənt/ |  | Đã không phải |
-| Weren't | Were not | /wɜːnt/ |  | Không phải |
-| Haven't | Have not | /ˈhævənt/ |  | Chưa / Không có |
-| Hasn't | Has not | /ˈhæzənt/ |  | Chưa / Không có |
-| Hadn't | Had not | /ˈhædnt/ |  | Đã không |
-| Wouldn't | Would not | /ˈwʊdənt/ |  | Sẽ không |
-| Shouldn't | Should not | /ˈʃʊdənt/ |  | Không nên |
-| Couldn't | Could not | /ˈkʊdənt/ |  | Không thể |
-| Mustn't | Must not | /ˈmʌsnt/ |  | Không được |
-| Needn't | Need not | /ˈniːdnt/ |  | Không cần |
-| Let's | Let us | /lets/ |  | Hãy cùng |
-| That's | That is / That has | /ðæts/ |  | Đó là / đã |
-| What's | What is / What has | /wʌts/ |  | Cái gì là / đã |
-| Who's | Who is / Who has | /huːz/ |  | Ai là / đã |
-| Where's | Where is / Where has | /werz/ |  | Ở đâu |
-| When's | When is / When has | /wenz/ |  | Khi nào |
-| Why's | Why is / Why has | /waɪz/ |  | Tại sao |
-| How's | How is / How has | /haʊz/ |  | Thế nào |
-| There's | There is / There has | /ðerz/ |  | Có |
-| Here's | Here is | /hɪrz/ |  | Đây là |
-| That'll | That will | /ðætl/ |  | Điều đó sẽ |
-| There'll | There will | /ðerl/ |  | Sẽ có |
-| What'll | What will | /wʌtl/ |  | Sẽ gì |
-| Who'll | Who will | /huːl/ |  | Ai sẽ |
-| Y'all | You all | /jɔːl/ |  | Các bạn (Mỹ Nam) |
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| I am | I'm | /aɪm/ | "eye-m" |
+| You are | You're | /jʊr/ /jɔːr/ | "yoor" / "your" |
+| He is | He's | /hiːz/ | "heez" |
+| She is | She's | /ʃiːz/ | "sheez" |
+| It is | It's | /ɪts/ | "its" |
+| We are | We're | /wɪr/ | "weer" |
+| They are | They're | /ðeɪr/ | "thayr" |
+| Are not | Aren’t | /ɑːrnt/ | "ahrnt" |
+| Is not | Isn’t | /ɪznt/ | "iz-nt" |
+| Was not | Wasn’t | /ˈwɒznt/ | "woz-nt" |
+| Were not | Weren’t | /wɜːnt/ | "wehrnt" ⚠ |
 
 ---
 
-## 💬 Slang / Informal Contractions
-
-| Dạng rút gọn | Dạng đầy đủ | Cách đọc (IPA) | Cách đọc (Vi) | Nghĩa / Cách dùng |
-|---------------|--------------|----------------|---------------|-------------------|
-| gonna | going to | /ˈɡʌnə/ |  | Sẽ (dự định làm gì) |
-| wanna | want to | /ˈwɒnə/ |  | Muốn |
-| gotta | got to / have got to | /ˈɡɒtə/ |  | Phải |
-| ain't | am/is/are/has/have not | /eɪnt/ |  | Không / chưa |
-| gimme | give me | /ˈɡɪmi/ |  | Đưa tôi |
-| lemme | let me | /ˈlɛmi/ |  | Để tôi |
-| kinda | kind of | /ˈkaɪndə/ |  | Hơi / kiểu như |
-| sorta | sort of | /ˈsɔːrtə/ |  | Đại loại |
-| outta | out of | /ˈaʊtə/ |  | Ra khỏi |
-| lotta | lot of | /ˈlɒtə/ |  | Nhiều |
-| hafta | have to | /ˈhæftə/ |  | Phải |
-| coulda | could have | /ˈkʊdə/ |  | Đáng lẽ đã có thể |
-| shoulda | should have | /ˈʃʊdə/ |  | Đáng lẽ nên |
-| woulda | would have | /ˈwʊdə/ |  | Đáng lẽ sẽ |
-| dunno | don't know | /dəˈnoʊ/ |  | Không biết |
-| ya | you | /jə/ |  | Bạn (thân mật) |
-| 'cause / cuz | because | /kəz/ |  | Bởi vì |
-| 'em | them | /əm/ |  | Họ / chúng nó |
-| y'all | you all | /jɔːl/ |  | Các bạn |
-| ya'll | you will | /jəl/ |  | Bạn sẽ |
-| c'mon | come on | /kəˈmɒn/ |  | Thôi nào |
-| watcha | what are you | /ˈwɒtʃə/ |  | Bạn đang...? |
-| gotcha | got you | /ˈɡɒtʃə/ |  | Hiểu rồi / bắt được rồi |
-| howdy | how do you do | /ˈhaʊdi/ |  | Xin chào (thân mật) |
-| ain'tcha | aren't you | /ˈeɪntʃə/ |  | Có phải bạn...? |
-| y'know | you know | /jəˈnoʊ/ |  | Biết không / hiểu không |
-| supposedta | supposed to | /səˈpoʊstə/ |  | Được cho là / nên |
-| tryna | trying to | /ˈtraɪnə/ |  | Cố gắng |
-| luvya | love you | /ˈlʌvjə/ |  | Yêu bạn |
-| oughta | ought to | /ˈɔːtə/ |  | Nên |
+## 🟩 2. To Have
+### Pronunciation Tips
+- `'ve` → /v/
+- `'s` (as has) → /z/
+- Linking: *“I’ve eaten”* → /aɪvˈiːtən/
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5aa56a1f9de293664e0/2.wav" type="audio/mpeg"> </audio>
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| I have | I've | /aɪv/ | "eye-v" |
+| You have | You've | /juːv/ | "yoo-v" |
+| He has | He's | /hiːz/ | "heez" |
+| She has | She's | /ʃiːz/ | "sheez" |
+| We have | We've | /wiːv/ | "weev" |
+| They have | They've | /ðeɪv/ | "thayv" |
+| Have not | Haven’t | /ˈhævnt/ | "hav-nt" |
+| Has not | Hasn’t | /ˈhæznt/ | "haz-nt" |
 
 ---
+
+## 🟨 3. Will
+### Pronunciation Tips
+- `'ll` → /l/
+- Linking: *“She’ll ask”* → /ʃil æsk/
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5b656a1f9de293664f6/3.wav" type="audio/mpeg"> </audio>
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| I will | I’ll | /aɪl/ | "eye-l" |
+| You will | You’ll | /juːl/ | "yoo-l" |
+| He will | He’ll | /hiːl/ | "heel" |
+| She will | She’ll | /ʃiːl/ | "sheel" |
+| It will | It’ll | /ˈɪtəl/ | "it-ul" |
+| We will | We’ll | /wiːl/ | "weel" |
+| They will | They’ll | /ðeɪl/ | "thay-l" |
+| Will not | Won’t | /woʊnt/ | "wohnt" |
+
+---
+
+## 🟥 4. Would / Had
+### Pronunciation Tips
+- `'d` → /d/
+- Depends on context: *He’d eat* (would), *He’d eaten* (had)
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5cc1da3069957d0f88f/4.wav" type="audio/mpeg"> </audio>
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5d456a1f9de29366605/5.wav" type="audio/mpeg"> </audio>
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| I would / had | I’d | /aɪd/ | "eye-d" |
+| You would / had | You’d | /juːd/ | "yoo-d" |
+| He would / had | He’d | /hiːd/ | "heed" |
+| She would / had | She’d | /ʃiːd/ | "sheed" |
+| It would / had | It’d | /ˈɪtəd/ | "it-ud" |
+| We would / had | We’d | /wiːd/ | "weed" |
+| They would / had | They’d | /ðeɪd/ | "thay-d" |
+| Would not | Wouldn’t | /ˈwʊdənt/ | "wood-nt" |
+| Had not | Hadn’t | /ˈhædnt/ | "had-nt" |
+
+---
+
+## 🟧 5. Do / Does / Did
+### Pronunciation Tips
+- `'nt` → /nt/
+- `'s` in doesn’t → /z/
+- Linking: *“Don’t ask”* → /doʊnt æsk/
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5dd56a1f9de29366666/6.wav" type="audio/mpeg"> </audio>
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| Do not | Don’t | /doʊnt/ | "dohnt" |
+| Does not | Doesn’t | /ˈdʌzənt/ | "duz-nt" |
+| Did not | Didn’t | /ˈdɪdənt/ | "did-nt" |
+
+---
+
+## 🟪 6. Modals
+### Pronunciation Tips
+- `'nt` → /nt/
+- “Can’t” 🇬🇧 /kaːnt/, 🇺🇸 /kænt/
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5e61da3069957d1054a/7.wav" type="audio/mpeg"> </audio>
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| Cannot | Can’t | /kænt/ | "kant" |
+| Could not | Couldn’t | /ˈkʊdənt/ | "kood-nt" |
+| Should not | Shouldn’t | /ˈʃʊdənt/ | "shood-nt" |
+| Might not | Mightn’t | /ˈmaɪtnt/ | "myt-nt" |
+| Must not | Mustn’t | /ˈmʌsnt/ | "mus-nt" |
+| Shall not | Shan’t | /ʃænt/ | "shant" |
+
+---
+### Audio: 
+<audio controls> <source src="https://media.zim.vn/6531a5ee1da3069957d1055f/8.wav" type="audio/mpeg"> </audio>
+## 🟫 7. Other Common Contractions
+| Full Form | Contracted | IPA | Pronunciation Tip |
+|------------|-------------|------|--------------------|
+| Let us | Let’s | /lɛts/ | "lets" |
+| That is | That’s | /ðæts/ | "thats" |
+| There is | There’s | /ðɛrz/ | "therz" |
+| Here is | Here’s | /hɪrz/ | "heerz" |
+| What is | What’s | /wʌts/ | "wuts" |
+| Who is | Who’s | /huːz/ | "hooz" |
+| Where is | Where’s | /wɛrz/ | "werz" |
+| When is | When’s | /wɛnz/ | "wenz" |
+| Why is | Why’s | /waɪz/ | "wize" |
+| How is | How’s | /haʊz/ | "howz" |
+
+---
+
+# 💬 Slang / Informal Contractions
+
+| Slang | Full Form | IPA | Pronunciation Tip | Meaning / Usage |
+|--------|-------------|------|-------------------|----------------|
+| gonna | going to | /ˈɡʌnə/ | "guh-nuh" | Sẽ |
+| wanna | want to | /ˈwɒnə/ | "wa-nuh" | Muốn |
+| gotta | got to / have got to | /ˈɡɒtə/ | "got-uh" | Phải |
+| ain't | am/is/are/has/have not | /eɪnt/ | "aynt" | Không / chưa |
+| gimme | give me | /ˈɡɪmi/ | "gim-ee" | Đưa tôi |
+| lemme | let me | /ˈlɛmi/ | "lem-ee" | Để tôi |
+| kinda | kind of | /ˈkaɪndə/ | "kine-duh" | Hơi / kiểu như |
+| sorta | sort of | /ˈsɔːrtə/ | "sort-uh" | Đại loại |
+| outta | out of | /ˈaʊtə/ | "ow-tuh" | Ra khỏi |
+| lotta | lot of | /ˈlɒtə/ | "lot-uh" | Nhiều |
+| hafta | have to | /ˈhæftə/ | "haf-tuh" | Phải |
+| coulda | could have | /ˈkʊdə/ | "kood-uh" | Đáng lẽ đã có thể |
+| shoulda | should have | /ˈʃʊdə/ | "shood-uh" | Đáng lẽ nên |
+| woulda | would have | /ˈwʊdə/ | "wood-uh" | Đáng lẽ sẽ |
+| dunno | don't know | /dəˈnoʊ/ | "duh-no" | Không biết |
+| ya | you | /jə/ | "yuh" | Bạn |
+| 'cause / cuz | because | /kəz/ | "cuz" | Bởi vì |
+| 'em | them | /əm/ | "uhm" | Họ / chúng nó |
+| y'all | you all | /jɔːl/ | "yawl" | Các bạn (Nam Mỹ) |
+| ya'll | you will | /jəl/ | "yuhl" | Bạn sẽ |
+| c'mon | come on | /kəˈmɒn/ | "kuh-mon" | Thôi nào |
+| watcha | what are you | /ˈwɒtʃə/ | "wot-chuh" | Bạn đang...? |
+| gotcha | got you | /ˈɡɒtʃə/ | "got-chuh" | Hiểu rồi / bắt được rồi |
+| howdy | how do you do | /ˈhaʊdi/ | "how-dee" | Xin chào |
+| ain'tcha | aren't you | /ˈeɪntʃə/ | "ayn-chuh" | Có phải bạn...? |
+| y'know | you know | /jəˈnoʊ/ | "yuh-no" | Biết không / hiểu không |
+| supposedta | supposed to | /səˈpoʊstə/ | "suh-poh-stuh" | Nên / được cho là |
+| tryna | trying to | /ˈtraɪnə/ | "try-nuh" | Cố gắng |
+| luvya | love you | /ˈlʌvjə/ | "luv-yuh" | Yêu bạn |
+| oughta | ought to | /ˈɔːtə/ | "aw-tuh" | Nên |
